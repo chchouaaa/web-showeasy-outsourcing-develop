@@ -1,0 +1,11 @@
+@import "variables";
+
+.no-text-transform {
+  text-transform: none !important;
+}
+
+@for $i from 1 to 6 {
+  .text-space-#{$i} {
+    letter-spacing: $i * 0.3px !important;
+  }
+}

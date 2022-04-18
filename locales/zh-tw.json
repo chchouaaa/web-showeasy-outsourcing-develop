@@ -1,0 +1,94 @@
+{
+  "submit" : "送出",
+  "Search" : "搜尋",
+  "home" : {
+    "keywords" : "熱門關鍵字",
+    "which_exhibition_do_you_want_to_find" : "今天想找什麼展覽? (請輸入展名 / 地點...)",
+    "find_by_country" : "悠遊全球發現各國展覽",
+    "industrycategories" : "展覽產業分類",
+    "comingsoon" : "台灣即將盛大開展，千萬不要錯過!",
+    "popularexhibitions" : "瞧瞧這些超熱門的展覽!",
+    "topics" : "歡迎光臨我們的精選主題"
+  },
+  "footer" : {
+    "copyright" : "版權所有 © 2021 簡單平台保留所有權",
+    "aboutshoweasy" : "認識ShowEasy",
+    "aboutus" : "關於我們" ,
+    "faq" : "常見問題",
+    "news" : "最新消息",
+    "ourpartners" : "合作夥伴",
+    "contactus" : "聯絡我們",
+    "termsconditions" : "使用條款",
+    "privacypolicy" : "隱私權保護政策",
+    "subscribe" : "訂閱電子報",
+    "please_enter_your_email_address" : "請輸入email"
+  },
+  "singleproduct" : {
+    "show_time" : "展覽日期  ",
+    "map" : "查看地圖",
+    "total_comment" : " 則評論",
+    "total_interested" : " 人收藏",
+    "profile" : "基本資料",
+    "location" : "地點",
+    "comment" : "評論",
+    "introduction_video" : "歷屆影像",
+    "add_collect" : "加入收藏",
+    "add_calendar" : "加入日曆",
+    "go_to_official_website" : "前往展覽官網",
+    "show_name" : "展覽名稱 : ",
+    "show_property" : "展覽產業 : ",
+    "show_cycle" : "舉辦週期 : ",
+    "exhibitor_number" : "參展商數量 : ",
+    "visitor_number" : "觀展人數 : ",
+    "introduction" : "展覽介紹",
+    "exhibit_profile" : "展覽項目",
+    "show_location" : "展場地點",
+    "view_more" : "查看更多",
+    "recent_event" : "近期相關展覽",
+    "content_video" : "歷屆影像",
+    "comment_title" : "評論",
+    "comment_sort_by" : "請選擇排序方式",
+    "comment_login_button" : "請登入會員或註冊",
+    "exhibit_address" : "展場地址 : ",
+    "exhibit_email_address" : "展館Email : ",
+    "exhibit_website" : "展館網址 : ",
+    "exhibit_phone_number" : "展館電話 : ",
+    "website_link" : "網站連結",
+    "sort_high_to_low" : "最高至最低",
+    "sort_low_to_high" : "最低至最高",
+    "share_col" : "分享"
+
+  },
+  "cardcart" : {
+    "views" : " 人瀏覽",
+    "count_down" : "倒數",
+    "days" : "天"
+  },
+  "SearchShowCard" : {
+    "show_time" : "展覽時間",
+    "map" : "查看地圖",
+    "comment_number" : " 則評論",
+    "share" : "分享"
+  },
+  "RatingCard" : {
+    "title" : "評分" 
+  },
+  "StatusCard" : {
+    "title" : "展覽狀態"
+  },
+  "shows": {
+    "find" : "找到",
+    "filter_results" : "個篩選結果",
+    "more" : "查看更多",
+    "select_from_date_to_end_date" : "選擇日期區間",
+    "location" : "區域地點",
+    "industrycategories" : "產業類別",
+    "rating" : "評分",
+    "showstatus" : "展覽狀態",
+    "countries" : "國家",
+    "cities" : "城市",
+    "autocomplete_country" : "洲/國家/城市",
+    "autocomplete_category" : "主題/產品/行業"
+  }
+
+}

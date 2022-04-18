@@ -1,0 +1,92 @@
+{
+  "submit": "Submit",
+  "Search": "Search",
+  "home": {
+    "keywords": "Keywords",
+    "which_exhibition_do_you_want_to_find": "Search by show name / location",
+    "find_by_country": "Find by Country",
+    "industrycategories": "Browse by Category",
+    "comingsoon": "Coming Soon",
+    "popularexhibitions": "Popular Exhibitions",
+    "topics": "Popular Topics"
+  },
+  "footer": {
+    "copyright": "Copyright © 2022 ShowEasy All Rights Reserved.",
+    "aboutshoweasy": "About ShowEasy",
+    "aboutus": "About Us",
+    "faq": "FAQ",
+    "news": "News",
+    "ourpartners": "Our partners",
+    "contactus": "Contact Us",
+    "termsconditions": "Terms & Conditions",
+    "privacypolicy": "Privacy Policy",
+    "subscribe": "Subscribe to ShowEasy’s newsletter!",
+    "please_enter_your_email_address": "Please enter your email address"
+  },
+  "singleproduct": {
+    "show_time": "Date  ",
+    "map": "Map",
+    "total_comment": " review",
+    "total_interested": " interested",
+    "profile": "About the show",
+    "location": "Venue Map",
+    "comment": "User Reviews",
+    "introduction_video": "Video & Gallery",
+    "add_collect": "Interested",
+    "add_calendar": "Add to calendar",
+    "go_to_official_website": "Official Website",
+    "show_name": "Show name:",
+    "show_property": "Category:",
+    "show_cycle": "Frequency:",
+    "exhibitor_number": "Exhibitors:",
+    "visitor_number": "Visitors:",
+    "introduction": "Introduction",
+    "exhibit_profile": "Exhibit Profile",
+    "show_location": "Venue Map",
+    "view_more": "view more",
+    "recent_event": "Related Events",
+    "content_video": "Videos",
+    "comment_title": "Comment",
+    "comment_sort_by": "Sort by",
+    "comment_login_button": "Log in as member or sign up",
+    "exhibit_address": "Address:",
+    "exhibit_email_address": "Email:",
+    "exhibit_website": "Website",
+    "exhibit_phone_number": "Phone number:",
+    "website_link": "link",
+    "sort_high_to_low": "Rating highest to lowest",
+    "sort_low_to_high": "Rating lowest to highest",
+    "share_col": "SHARE"
+  },
+  "cardcart": {
+    "views": " views",
+    "count_down": "Coming up in ",
+    "days": "days"
+  },
+  "SearchShowCard": {
+    "show_time": "Date",
+    "map": "Map",
+    "comment_number": " reviews",
+    "share": "Share"
+  },
+  "RatingCard": {
+    "title": "rating"
+  },
+  "StatusCard": {
+    "title": "show status"
+  },
+  "shows": {
+    "find": "find",
+    "filter_results": "results",
+    "more": "View more",
+    "select_from_date_to_end_date": "Show Date",
+    "location": "Location",
+    "industrycategories": "Category",
+    "rating": "Rating",
+    "showstatus": "Show Status",
+    "countries": "Country",
+    "cities": "City",
+    "autocomplete_country": "Region/Country/City",
+    "autocomplete_category": "Topic/Product/Industry"
+  }
+}

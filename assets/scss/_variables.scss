@@ -1,0 +1,40 @@
+// Ref: https://github.com/nuxt-community/vuetify-module#customvariables
+//
+// The variables you want to modify
+// $font-size-root: 20px;
+
+$font-family: "DM Sans";
+$body-font-family: "DM Sans";
+$heading-font-family: "DM Sans";
+
+$primary-orange: #ee9546;
+$primary-light-orange: #f5cda8;
+$alert-red: #ef5a5a;
+$alert-light-red: #e99e9e;
+.v-application {
+   font-family: $body-font-family !important;
+    .title { // To pin point specific classes of some components
+        font-family: $body-font-family, sans-serif !important;
+    }
+    .text-h1 {
+      font-family: $body-font-family !important;
+    }
+    .text-h2 {
+      font-family: $body-font-family !important;
+    }
+    .text-h3 {
+      font-family: $body-font-family !important;
+    }
+    .text-h4 {
+      font-family: $body-font-family !important;
+    }
+    .text-h5 {
+      font-family: $body-font-family !important;
+    }
+    .text-h6 {
+      font-family: $body-font-family !important;
+    }
+    .caption {
+      font-family: $body-font-family !important;
+    }
+ }
